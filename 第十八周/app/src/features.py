@@ -1,0 +1,16 @@
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+class FeatureExtractor:
+    def __init__(self):
+        self.vectorizer = TfidfVectorizer(
+            lowercase=True,
+            stop_words="english",
+            ngram_range=(1, 2),
+            max_features=2000
+        )
+
+    def fit_transform(self, texts):
+        return self.vectorizer.fit_transform(texts)
+
+    def transform(self, texts):
+        return self.vectorizer.transform(texts)

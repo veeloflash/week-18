@@ -1,0 +1,27 @@
+[
+    {"text": "1+1", "label": "Easy"},
+    {"text": "simple addition problem", "label": "Easy"},
+    {"text": "basic english vocabulary", "label": "Easy"},
+
+    {"text": "solve linear equation", "label": "Normal"},
+    {"text": "python loop example", "label": "Normal"},
+    {"text": "english grammar tense", "label": "Normal"},
+    {"text": "history summary writing", "label": "Normal"},
+    {"text": "basic chemistry reaction", "label": "Normal"},
+    {"text": "geography map reading", "label": "Normal"},
+    {"text": "introduction to biology", "label": "Normal"},
+    {"text": "simple physics problem", "label": "Normal"},
+
+    {"text": "integral of x^2", "label": "Hard"},
+    {"text": "dynamic programming problem", "label": "Hard"},
+    {"text": "advanced grammar analysis", "label": "Hard"},
+    {"text": "proof of the Pythagorean theorem", "label": "Hard"},
+    {"text": "machine learning model evaluation", "label": "Hard"},
+    {"text": "quantum physics concept review", "label": "Hard"},
+    {"text": "philosophy argument critique", "label": "Hard"},
+    {"text": "statistics hypothesis testing", "label": "Hard"},
+    {"text": "data structures algorithm design", "label": "Hard"},
+    {"text": "organic chemistry mechanism", "label": "Hard"},
+    {"text": "calculus series convergence", "label": "Hard"},
+    {"text": "computer architecture overview", "label": "Hard"}
+]
